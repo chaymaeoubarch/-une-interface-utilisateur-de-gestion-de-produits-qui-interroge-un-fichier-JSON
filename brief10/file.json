@@ -1,0 +1,242 @@
+[
+    {
+        "items":"/assets/pic1.jpg",
+        "id": 8801,
+        "name": "Flowers Necklace",
+        "price": "45DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic2.jPG",
+        "id": 8802,
+        "name": "Alphabet Choker",
+        "price": "65DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic3.jpg",
+        "id": 8803,
+        "name": "Resin Rings",
+        "price": "25DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic4.jPG",
+        "id": 8804,
+        "name": "Shelly Necklace",
+        "price": "50DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic5.jpg",
+        "id": 8805,
+        "name": "Fairy jar Necklace",
+        "price": "85DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic6.jpg",
+        "id": 8806,
+        "name": "Green Fairy Necklace",
+        "price": "55DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic7.jpg",
+        "id": 8807,
+        "name": "Flowers Necklace",
+        "price": "45DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic8.jpg",
+        "id": 8808,
+        "name": "Colorful Anklet",
+        "price": "35DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic9.jpg",
+        "id": 8809,
+        "name": "Evil Eye Necklace",
+        "price": "55DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic10.jpg",
+        "id": 8810,
+        "name": "Smiley Ring",
+        "price": "20DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic11.jpg",
+        "id": 8811,
+        "name": "Matching Rings",
+        "price": "40DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic12.jpg",
+        "id": 8812,
+        "name": "colorful Necklace",
+        "price": "50DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic13.jpg",
+        "id": 8813,
+        "name": "Smiley Necklace",
+        "price": "45DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic14.jpg",
+        "id": 8814,
+        "name": "Phone Charm",
+        "price": "40DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic15.jpg",
+        "id": 8815,
+        "name": "Red Necklace",
+        "price": "55DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic16.jpg",
+        "id": 8816,
+        "name": "Matching Bracelets",
+        "price": "65DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic17.jpg",
+        "id": 8817,
+        "name": "Shelly Choker",
+        "price": "55DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic18.jpg",
+        "id": 8818,
+        "name": "Resin Rings",
+        "price": "15DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic19.jpg",
+        "id": 8819,
+        "name": "Phone Charm",
+        "price": "45DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    },
+    {
+        "items":"/assets/pic20.jpeg",
+        "id": 8820,
+        "name": "Flowers Necklace",
+        "price": "45DH",
+        "category": "Jewerly",
+        "availability": ["Tangier"," Casablanca"],
+        "supplier":{
+            "company": "Witches Store",
+            "address": "Tangier"
+        }
+    }
+    ]

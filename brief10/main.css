@@ -1,0 +1,40 @@
+* {
+    padding : 0 ;
+    margin :0 ; 
+    box-sizing: border-box;
+}
+.inverted-bar {
+    width: 100%;
+    padding : 80px 0;
+    z-index: 1;
+}
+
+.sec-right {
+    background-color: #D7E0BA;
+    padding : 80px 0;
+    z-index: 1;
+}
+.layout {
+    position: relative;
+}
+.layout img {
+    z-index: 3;
+    position : absolute;
+    width: 200px;
+    left: 30%;
+}
+table{
+    text-align: center;
+}
+nav form{
+    margin: 30px;
+    border-radius: 20px;
+}
+table th{
+    text-align: center;
+}
+td img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
